@@ -1,4 +1,7 @@
-<!--home page-->
+<svelte:head>
+  <title>Extend</title>
+  <link rel="icon" type="image" href="/favicon.png">
+</svelte:head>
 
 <div class="grid grid-cols-2">
   <div class="h-screen">
