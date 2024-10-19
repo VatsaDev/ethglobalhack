@@ -1,5 +1,5 @@
 <script>
-import { user } from '../authStore';
+import { user } from '../authstore';
 import { auth } from '../firebase';
 import { signOut } from 'firebase/auth';
 import { goto } from '$app/navigation';
