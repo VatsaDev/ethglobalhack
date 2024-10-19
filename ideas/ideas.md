@@ -28,12 +28,24 @@
      - use the CDP MPC wallets
      - make make a replit template or some building blocks for other devs to use with agents 
 
+`IMP`: coinbase will literally give me the award if i can add 
+
  - ENS creative name use ($2.5k): By connecting ENS names to agents and maybe somehow owner data, we could make a agents credentials type verification thing, like check the ENS and find a professor vs some physics students
+
+They kinda sad to be here
 
  - Skale Network usage ($3k/$2k/$1k/$0.5k): lots of agents at scale with "intelligence too cheap to meter" can only be useful if microtransactions between agents and people aren't hit with gas fees for their services
 
+Agrees with my thots
+
  - Story best AI use ($3k/$1k): all the story ai stuff I'm using should help with that award
+
+Agree with my thots
 
 Dev feedbacks:
 
  - Story AI has a best dev feedback for free swag and and maybe 500 bucks
+
+## Devs/wrkshps
+
+ - find each table, meet the devs, pitch my thing at them, but need to observe reactions and see what happens/what they twist that into, cause thats what they expect/want
