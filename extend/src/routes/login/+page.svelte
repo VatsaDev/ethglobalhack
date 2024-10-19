@@ -1,3 +1,8 @@
+<svelte:head>
+  <title>Login</title>
+  <link rel="icon" type="image" href="/favicon.png">
+</svelte:head>
+
 <script>
 import { signInWithPopup } from 'firebase/auth';
 import { auth, googleProvider } from '../../firebase';
