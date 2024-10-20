@@ -13,7 +13,7 @@
   let transactionStatus = null;
   let inferenceResult = null;
   let questionInput = ""; // For user input
-  let mode_test = false; // Set to true for testing
+  let mode_test = true; // Set to true for testing
 
   async function callBackendAPI(agentWalletAddress, price) {
     try {
