@@ -7,7 +7,9 @@ Default models aren't so great, but there can be lots of them, and you're amazin
 Usually Gemini 1.5 < GPT-4o
 For us, Gemini 1.5+Æxtend > GPT-4o
 
-There is also Yddgrasil mode, which is several Gemini 1.5+Æxtend skills put togther, this is >4o, weaker than o1, but can reason with many more diverse skills and over much longer sizes (1M tokens), giving it some advantages over even the strongest models
+There is also Yddgrasil mode, which is several Gemini 1.5+Æxtend skills put togther, this is >4o, weaker than o1(Actually CAN BEAT o1 50% of the time), but can reason with many more diverse skills and over much longer sizes (1M tokens), giving it some advantages over even the strongest models
+
+Replit OS parts - https://replit.com/join/pizgqxbtyg-vatsapandey234
 
 I'd Like to thanks the EthGlobal Mentors and the Engineers at Coinbase, Skale, and ENS, you were especially helpful for a programmers first real foray in web3 
 
