@@ -1,7 +1,7 @@
 import { GoogleGenerativeAI, HarmBlockThreshold, HarmCategory } from "@google/generative-ai";
 
 // Assuming you're using an environment variable or a config file for the API key
-const API_KEY = "AIzaSyAE9ZtBRnv5k8egNi6ZWLx6O_4N71qDUdU";
+const API_KEY = "AIzaSyApMa-9Nujs7ij-DbNmcZlzAAoob4V-kII";
 
 var safety_config = [
   {

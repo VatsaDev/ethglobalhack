@@ -20,6 +20,7 @@ async function logout() {
             <a href="/" class="text-gray-700 hover:underline font-medium">Home</a>
             <a href="/dash" class="text-gray-700 hover:underline font-medium">Dashboard</a>
             <a href="/search" class="text-gray-700 hover:underline font-medium">Search</a>
+            <a href="/yddg" class="text-gray-700 hover:underline font-medium">Yddgrasil</a>
         </div>
         
         <div>
