@@ -92,7 +92,7 @@
       {#each searchResults as user}
         <div class="bg-white shadow-md rounded-lg p-4 flex justify-between items-center">
           <div>
-            <a href={user.link}><p class="text-gray-600 font-bold">{user.purpose}</p></a>
+            <a href=/agents/{user.id}><p class="text-gray-600 font-bold">{user.purpose}</p></a>
           </div>
           <p class="text-purple-600 font-bold">{user.price} eth</p>
         </div>
