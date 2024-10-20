@@ -1,7 +1,7 @@
 <script>
 
   import { onMount } from "svelte";
-  import { user } from "../../authStore";
+  import { user } from "../../authstore";
   import { goto } from "$app/navigation";
   import { geminiInference } from "../../geminiInference";
   import { db } from "../../firebase";
